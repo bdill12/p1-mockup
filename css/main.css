@@ -1,0 +1,42 @@
+* {
+	font: 16px/32px verdana, sans-serif;
+	-webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+	/* Headers */
+h1 {
+	color: #666;
+	text-align: center;
+	font-size: 3em;
+	padding: 23px;
+}
+
+h2 {
+	color: #f07c17;
+	font-size: 26px;
+	font-weight: bold;
+	margin: 0;
+}
+
+	/* Left Column Content*/
+.features {
+	border: 1px solid #ccc;
+	margin-top: 30px;
+	padding: 30px 0 0 29px;
+}
+
+li {
+	padding-bottom: 10px;
+}
+
+ul {
+	margin-top: 30px;
+	padding-bottom: 1em;
+}
+
+	/* Right Column Content */
+.content {
+	padding-top: 25px;
+}

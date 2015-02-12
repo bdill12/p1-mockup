@@ -1,0 +1,20 @@
+Resources Accessed While Completing Project 1, Front End Developer Nanodegree, Brenton Dill
+
+
+For CSS-related questions, including font property, line-height property, margin and padding properties:
+	http://www.w3schools.com/cssref/default.asp
+
+For html-related questions, including property attributes:
+	http://www.w3schools.com/html/default.asp
+
+To check CSS and HTML:
+	CSS: http://jigsaw.w3.org/css-validator/
+	HTML: http://validator.w3.org/
+
+Bootstrap and bootstrap related questions:
+	getbootstrap.com
+	w3schools.com
+
+To find the box-sizing solution, I looked back at Udacity lesson 3 of Intro to HTML and CSS.
+
+To format and finalize, I used the Udacity Style guide.
