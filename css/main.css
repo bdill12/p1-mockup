@@ -1,9 +1,9 @@
 * {
 	font: 16px/32px verdana, sans-serif;
 	-webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    -ms-box-sizing: border-box;
-    box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
 }
 	/* Headers */
 h1 {
